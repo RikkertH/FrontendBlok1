@@ -64,7 +64,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-(images/Schermafbeelding 2020-09-07 om 14.52.14)
+
 
 **Breakdown-schets(en):**
 
