@@ -41,8 +41,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik heb deze week veel moeite gehad met het werken aan de website. Dit was vooral mentaal en niet persé door het werk zelf. Het voorbereiden van de lessen verging een stuk beter dan voorheen en ik was reeds voorbereid in de les. Dit gaf een erg prettig gevoel en motivatie om door te werken aan het vak. Deze afgelopen dagen is dit mede door drukte snel afgelopen geweest. Nu ik een klein begin heb gemaakt, begint de motivatie gelukkig wel weer terug te komen en heb ik wel weer vertrouwen gekregen.
 
 **Screenshot(s):**
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Schermafbeelding 2020-09-16 om 23.38.53)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Schermafbeelding 2020-09-16 om 23.41.57)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie2.png)
 
 ### Agenda voor meeting
 
