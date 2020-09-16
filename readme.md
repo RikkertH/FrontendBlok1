@@ -46,7 +46,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+1. Semantische correctheid          (15 min)      (uitleg)
+2. Javascript                       (30 min)      (opdrachten bekijken)
+3. CSS uitlijningen                 (15 min)      (uitleg)
 
 ### Verslag van meeting
 
