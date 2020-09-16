@@ -1,0 +1,48 @@
+/* CSS Document */
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+* {
+    text-decoration: none;
+    list-style-type: none;
+    font-family: courier new;
+    font-weight: 100;
+    margin: 0;
+    color: white;
+}
+
+body {
+    background-color: darkslategrey;
+}
+
+
+header {
+    position: relative;
+    width: 100%;
+    background-color: darkslateygrey;
+    height: 8em;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header img {
+    position: absolute;
+    width: 9em;
+    left: calc(50% - 4.5em);
+    top: 4em;
+    margin: 0;
+    padding: 0;
+}
+
+header p {
+    position: absolute;
+    top: 9.8em;
+    font-size: 0.8em;
+}
