@@ -39,7 +39,7 @@ Ik heb afgelopen weken.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie17.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie16.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie15.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie13.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie14.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie13.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie12.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie11.png)
