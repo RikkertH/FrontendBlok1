@@ -5,44 +5,174 @@
     box-sizing: border-box;
 }
 
+
+/* algemene code */
 * {
     text-decoration: none;
     list-style-type: none;
     font-family: courier new;
     font-weight: 100;
     margin: 0;
-    color: white;
+    color: black;
 }
 
+
+::-webkit-scrollbar-thumb {
+    background-color: #c7c7c7;
+    /*-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);*/
+    border-radius: 1em;
+
+}
+
+::-webkit-scrollbar {
+    background-color: white;
+    z-index: 1;
+}
+
+::-webkit-scrollbar-track {
+    background-color: white;
+
+}
+
+
 body {
-    background-color: darkslategrey;
+    /*background-color: darkslategrey;*/
+    background-color: white;
 }
 
 
 header {
     position: relative;
     width: 100%;
-    background-color: darkslateygrey;
+    /*background-color: darkslateygrey;*/
+    background-color: white;
     height: 8em;
+    margin-bottom: 3em;
 }
 
-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
-header img {
+section img {
     position: absolute;
     width: 9em;
     left: calc(50% - 4.5em);
-    top: 4em;
+    top: 6em;
     margin: 0;
     padding: 0;
 }
 
 header p {
     position: absolute;
-    top: 9.8em;
+    top: 12.8em;
     font-size: 0.8em;
 }
+
+main {
+    position: relative;
+    width: 100%;
+}
+
+section:nth-of-type(1) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+article {
+    margin-top: 15em;
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    overflow: auto;
+    width: 80%;
+    max-width: 40em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+article img {
+    width: 3em;
+    height: 20em;
+    border-right: solid 2px white;
+}
+
+
+footer {
+    display: grid;
+    grid-template-columns: 8fr 3fr 3fr 3fr 3fr 3fr 3fr 3fr;
+    position: relative;
+    top: 44em;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 0.7em;
+    width: 80%;
+    max-width: 640px;
+    grid-gap: 0.5em;
+}
+
+footer img {
+    width: 1.5em;
+}
+
+footer a {
+    text-align: right;
+}
+
+footer a:first-of-type {
+    text-align: left;
+}
+
+
+/* TELEFOON INSTELLINGEN */
+@media (max-width: 700px) {
+
+    section img {
+        top: 3em;
+    }
+
+    section p {
+        top: 9em;
+    }
+
+    article {
+        margin-top: 10em;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        top: 31em;
+    }
+
+    footer a {
+        text-align: left;
+    }
+
+    a {
+        margin-top: 0.5em;
+    }
+
+    footer a:last-of-type {
+        margin-bottom: 4em;
+    }
+
+
+}
+
+/*repeat(auto-fit, minmax(10em, 1fr)); 
+
+article {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    top: 1em;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+}
+top: 1em;
+    left: 10%;
+    width: 80%;
+    max-width: 40em;
+*/
