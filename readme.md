@@ -30,7 +30,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Ik heb afgelopen weken.
+
+**Screenshot(s):**
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie2.png)
+
+### Agenda voor meeting
+
+| Mirna                      | Rikkert                   | Bas                          | Sophie |
+| -------------              |:-------------:            | -----:                       | -----:                                 |
+|  correcte code checken     | flex-box dingetje         |  Is de tweede pagina genoeg? | Wanneer wel/niet div'jes  |
+|  flex-box dingetje         | Tweede pagina meer info |                              | moeten de img op knopjes met background-image|
+| Hoe krijgen we pluspunten? |                           |                              | Hoever moet filters toegepast worden? |
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 
@@ -52,8 +70,17 @@ Ik heb deze week veel moeite gehad met het werken aan de website. Dit was vooral
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Samen met de student assistenten hebben we gekeken naar onze code en of deze sematisch correct was. Zei hebben ons geholpen en uitleg gegeven over media queries.
 
+Hierna hebben we de opdrachten van FED met de javascript opdrachten samen bekeken.
+Hier hebben zij samen met ons de opdracht met de shoppingcart uitgelegd.
+Tevens hebben zij ons een tip gegeven dat we eerst psuedo code moeten schrijven in het nederlands en deze moeten omzetten naar javascript.
+
+Je mag wel div's gebruiken maar gebruik ze niet voor elementen waar al een HTML5 element voor is. Als je bij je eindgesprek kan uitleggen waarom je een div hebt gebruik (bijvoorbeeld om2 elementen een display flex te geven) dan is dat ook goed.
+
+We hebben met z'n alle naar de code van 1 van de teamleden bekeken. Dit was omdat diegene ergens niet uit kwam. 1 van de student assistenten heeft toen laten zien hoe je d.m.v. met firefox kan debuggen. Dit doe je namelijk door de css als het ware "uit te vinken" in de editor.
+
+tip: voeg leuke of grappige animaties toe met css (als je je avontuurlijk voelt ook JavaScript) om de docenten te verrassen.
 
 
 ## Intake (week 1)
