@@ -32,7 +32,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-Ik heb afgelopen weken.
+Ik heb afgelopen weken meer gewerkt aan mijn website en ben hierbij een aantal keer vastgelopen. Zo heb ik moeite gehad met het maken van een customizable scrollbar en het maken van het kleding keuze menu. Ik heb eerst het menu moeten maken en heb dit geprobeerd met grid, maar dit was in mijn geval niet de beste keuze. Zo kwam ik met flexbox bijna direct bij het resultaat wat ik wilde. Hierna heb ik meteen geprobeerd om deze pagina responsive te maken en na lang proberen heb ik dit gedaan met een "transform: translate" element. Vervolgens heb ik gezorgd dat het menu ook meegaat met het kleiner worden van de pagina. Na het toevoegen en bewerken van de scrollbar kon ik werken aan de footer. Deze heb ik zo gemaakt dat de pagina met een mediaquerry naar een kleine modus gaat vanaf 700px.
 
 **Screenshot(s):**
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie18.png)
