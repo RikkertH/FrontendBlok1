@@ -35,8 +35,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik heb afgelopen weken.
 
 **Screenshot(s):**
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie1.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie18.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie17.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie16.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie15.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie13.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie13.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie12.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie11.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie10.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie9.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie8.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie7.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie6.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie5.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie4.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie3.png)
 
 ### Agenda voor meeting
 
