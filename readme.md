@@ -24,7 +24,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+
+Ik heb afgelopen weken meer gewerkt aan mijn website en ben hierbij een aantal keer vastgelopen. Zo heb ik moeite gehad met het maken van een customizable scrollbar en het maken van het kleding keuze menu. Ik heb eerst het menu moeten maken en heb dit geprobeerd met grid, maar dit was in mijn geval niet de beste keuze. Zo kwam ik met flexbox bijna direct bij het resultaat wat ik wilde. Hierna heb ik meteen geprobeerd om deze pagina responsive te maken en na lang proberen heb ik dit gedaan met een "transform: translate" element. Vervolgens heb ik gezorgd dat het menu ook meegaat met het kleiner worden van de pagina. Na het toevoegen en bewerken van de scrollbar kon ik werken aan de footer. Deze heb ik zo gemaakt dat de pagina met een mediaquerry naar een kleine modus gaat vanaf 700px.
+
+**Screenshot(s):**
+
+
+### Agenda voor meeting
+
+| Mirna                      | Rikkert                   | Bas                          | Sophie                                           |
+| -------------              |:-------------:            | -----:                       | -----:                                           |
+| sematisch checken CSS en HTML| Grid grootte            |   sematisch checken HTML     | Is display:none; correcte code?                  |
+|                            |Grid juist plaatsen         |                              | Errors uit javascript halen                      |
+|                            | img grootte in grid        |                              | Hoe krijg je gradient over een element?          |
+|                            |                           |                              | Hoe zorg ik ervoor dat ie bovenaan blijft staan als hij uitklapt? VANAF REGEL 129 JS/ 125 HTML|
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 
