@@ -18,7 +18,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie18.png)
 
 
 
@@ -41,7 +41,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+We zijn het lijstje van links naar rechts af gegaan. Dus begonnen bij feedback voor Mirna en geindigd bij Sophie. Bij mirna hebben we naar de HTML en CSS gekeken ofdat dit wel semantisch correct was. Dit was het geval. Voor de CSS is er aangegeven dat er op een container een display flex kan worden gezet i.p.v. de children elementen een diplay absolute te geven. Hierna had Rikkerteen vraag over grid. Hij had een afbeelding en een stuk tekst naast elkaar staan en dit in 2 kolommen staan en als het scherm kleiner wordt dan moesten deze onder elkaar komen. Dit kon worden opgelost door de grid columns op 1 volledige koloms breedte te zetten. Hierna kwam ik aan de beurt. Ik had de vraag of mijn HTML wel sematisch correct zou zijn. Dit was niet helemaal het geval. Ik had te veel divjes gebruikt en te veel sections. De sections konden worden vervangen voor articles. Als laatste kwam Sophie en zij had een aantal vragen. De vraag over de errors in haar JavaScript dat was te verwaarlozen. Hierna was er een vraag over hoe zij een gradient zou kunnen toevoegen over een element heen. Dit zou kunnen worden opgelost door middel van een after neer te zetten op de section. Hierna hebben we nog het vak FED geevalueerd met de student assistenten en gepraat over het volgende blok.
 
 
 
