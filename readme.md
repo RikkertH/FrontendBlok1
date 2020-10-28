@@ -21,27 +21,35 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind1.png)
 (De homepagina)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind2.png)
 (Footer hover menu)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind3.png)
 (Home button normaal)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind4.png)
 (Home button bij hover)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind5.png)
 (Mobile versie homescreen)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind6.png)
 (Mobile versie productpagina)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind7.png)
 (Werkende product knoppen)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind8.png)
 (Maat knop)
 ------------------------------------------------------------------
+.
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind9.png)
 (Productpagina)
 
