@@ -22,28 +22,28 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 (De homepagina)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind2.png)
-(Home button normaal)
+(Footer hover menu)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind3.png)
-(Home button bij hover)
+(Home button normaal)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind4.png)
-(Mobile versie homescreen)
+(Home button bij hover)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind5.png)
-(Mobile versie productpagina)
+(Mobile versie homescreen)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind6.png)
-(Werkende product knoppen)
+(Mobile versie productpagina)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind7.png)
-(Maat knop)
+(Werkende product knoppen)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind8.png)
-(Productpagina)
+(Maat knop)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind9.png)
-
+(Productpagina)
 
 
 ## Voortgang 3 (week 6)
