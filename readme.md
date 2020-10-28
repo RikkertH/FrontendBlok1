@@ -16,9 +16,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
-**Screenshot(s):**
+**Screenshot(s) Eindproduct:**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/progressie18.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind3.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind4.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind5.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind6.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind7.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind8.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/eind9.png)
 
 
 
@@ -26,6 +34,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
+Ik ben bezig geweest met het toevoegen van een aantal css elementen om de pagina wat meer aan te kleden. Ik heb een dropdown menu gemaakt in de footer om taal te selecteren en heb bijbehorende hover elementen toegevoegd. Ook heb ik geprobeerd om de article op het home menu bij het inladen van de pagina zelf te laten scrollen naar links, maar dit is me na uren lang prutten niet gelukt. Mijn eerste pagina was al responsive, dus kon ik verder focussen op het maken van mijn tweede pagina. Deze ben ik begonnen om alles onder elkaar te plaatsen zoals de originele website ook heeft, totdat ik laatst doorwerkte en zag dat ze hun website hebben aangepast bij klein formaat. Ook ik heb dus deze aanpassingen toegevoegd om de responsiveness op een manier te krijgen die ik nog nooit gebruikt heb. Ik heb doormiddel van Javascript een werkende collage gemaakt op de productpagina waar de gebruiker verschillende voorbeelden kan zien. Als laatste touches heb ik gecontroleerd of alles werkte en compleet was voor de eindoplevering.
 
 **Screenshot(s):**
 
