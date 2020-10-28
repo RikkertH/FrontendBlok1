@@ -130,7 +130,7 @@ tip: voeg leuke of grappige animaties toe met css (als je je avontuurlijk voelt 
 
 **Je startniveau:** -Rode Piste-
 
-**Je focus:** -Surface Plane-
+**Je focus:** -Responsiveness-
 
 **Je opdracht:** -https://www.supremenewyork.com/index-
 
