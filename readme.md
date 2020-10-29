@@ -12,7 +12,7 @@ Belangrijke opmerking: De website werkt het beste in google chrome
 2. -css-tricks.com-
 3. -Codepen.io-
 
-
+(bronnenlijst aanpassen)
 
 ## Eindgesprek (week 7/8)
 
