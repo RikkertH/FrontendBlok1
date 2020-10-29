@@ -8,9 +8,19 @@ Belangrijke opmerking: De website werkt het beste in google chrome
 ------------------------------------------------------------------
 
 ## Bronnenlijst
-1. -w3schools.com-
-2. -css-tricks.com-
-3. -Codepen.io-
+1. -https://thisinterestsme.com/change-src-image-javascript/-
+2. -https://www.w3schools.com/howto/howto_css_dropdown.asp-
+3. -https://css-tricks.com/snippets/css/a-guide-to-flexbox/-
+4. -https://www.youtube.com/watch?v=jx5jmI0UlXU-
+5. -https://codepen.io/shooft/pen/WNwdwQO-
+6. -https://codepen.io/shooft/pen/QWNxEpv-
+7. -https://dlo.mijnhva.nl/content/enforced/192602-FDMCI-2000FED116-DMCI-CMD-2021/FED%2020-21%20-%20Blok%201%20-%20Oefening%20media%20queries.pdf-
+8. -https://codepen.io/rikkerth/pen/NWNmgQz-
+9. -https://codepen.io/rikkerth/pen/PoNaRNw-
+10. -https://www.youtube.com/watch?v=pjm1jKPSGck&t=190s-
+11. -https://www.youtube.com/watch?v=HIWWBHB3xHY&t=158s-
+12. -https://www.youtube.com/watch?v=KbMJPNXYYnw-
+13. -https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar-
 
 (bronnenlijst aanpassen)
 
