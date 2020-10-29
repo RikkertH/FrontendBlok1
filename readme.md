@@ -22,7 +22,6 @@ Belangrijke opmerking: De website werkt het beste in google chrome
 12. -https://www.youtube.com/watch?v=KbMJPNXYYnw-
 13. -https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar-
 
-(bronnenlijst aanpassen)
 
 ## Eindgesprek (week 7/8)
 
